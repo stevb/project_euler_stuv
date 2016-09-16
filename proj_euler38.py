@@ -17,3 +17,4 @@ for i in range(9123,9876):
         pan_found.append(int(str(i) + str(i*2)))
 print pan_found
 print max(pan_found)
+#answer is 932718654
